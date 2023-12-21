@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/horriblechild"><img src="https://api.daily.dev/devcards/790cb701f93744fd953f3f130de8b14c.png?r=czq" width="400" alt="Evan Rodriguez's Dev Card"/></a>
+
 - 👋 Hi, I’m @horribleChild. 
 
 - 👀 I’m interested in learning how to be a #cmdLineNinja. 
