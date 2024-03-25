@@ -1,4 +1,6 @@
 <a href="https://app.daily.dev/horriblechild"><img src="https://api.daily.dev/devcards/790cb701f93744fd953f3f130de8b14c.png?r=czq" width="400" alt="Evan Rodriguez's Dev Card"/></a>
+<a href="https://app.daily.dev/horriblechild"><img src="https://api.daily.dev/devcards/v2/gmhJ8qd1PUIhoEefcPmqF.png?type=default&r=mmg" width="356" alt="Evan Rodriguez's Dev Card"/></a>
+<a href="https://app.daily.dev/horriblechild"><img src="https://api.daily.dev/devcards/v2/gmhJ8qd1PUIhoEefcPmqF.png?type=wide&r=qc5" width="652" alt="Evan Rodriguez's Dev Card"/></a>
 
 - 👋 Hi, I’m @horribleChild. 
 
